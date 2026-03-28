@@ -1,14 +1,14 @@
 # product_metrics
 This project contains an analysis of user behavior data. The original dataset was in Excel format, followed by data cleaning and preparation. An interactive dashboard was built in Tableau, featuring product metrics, dual‑axis charts, a retention funnel, cohort analysis.
-
-![Dashboard SUBSCRIPTION ANALYTICS]( https://drive.google.com/file/d/1LUpkcmHMdB4Yir1LYNO2k8ge4Rf92TR-/view?usp=sharing)
+![Dashboard SUBSCRIPTION ANALYTICS](https://drive.google.com/uc?export=view&id=1LUpkcmHMdB4Yir1LYNO2k8ge4Rf92TR-)
 
 ## Introduction
-This dashboard was created to
-Using a dataset     this project provides easy-to-use interface to explore behavior of users, trends and revenue.
+This dashboard was created to provide a clear and interactive view of **user behavior and subscription analytics**.  
+
+Using a dataset in **Excel**, this project offers an easy to use interface to explore **user activity, retention trends, and revenue performance**, supported by product metrics, dual axis charts, a **retention funnel**, and **cohort analysis**.  
 
 ### Dashboard 
-You can find the dashboard here: [SUBSCRIPTION ANALYTICS] (https://public.tableau.com/app/profile/tetiana.kholod/viz/SUBSCRIPTIONANALYTICS/Dashboard1)
+You can find the dashboard here: [SUBSCRIPTION ANALYTICS](https://public.tableau.com/app/profile/tetiana.kholod/viz/SUBSCRIPTIONANALYTICS/Dashboard1)
 
 ### Skills Showcased
 
